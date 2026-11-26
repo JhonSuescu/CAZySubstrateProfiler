@@ -47,23 +47,6 @@ Based on the detected CAZyme families, each genome is assigned one of three infe
 
 These categories represent genomic inference and do not constitute experimental confirmation of substrate degradation.
 
-## Repository Structure
-
-```text
-CAZySubstrateProfiler/
-│
-├── data/
-│   └── CAZy_substrate_rules.csv
-│
-├── scripts/
-│   └── CAZySubstrateProfiler.R
-│
-├── results/
-│
-├── README.md
-└── LICENSE
-```
-
 ## Input Files
 
 ### 1. CAZyme annotations
