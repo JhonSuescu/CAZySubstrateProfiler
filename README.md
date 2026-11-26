@@ -112,10 +112,21 @@ CAZySubstrateProfiler provides genomic predictions based on predefined CAZyme fa
 
 Substrate specificity may vary among members of the same CAZyme family. Therefore, the inferred degradation potential should be interpreted as a genomic indication rather than experimental evidence of substrate degradation.
 
-## References
-
-To be added.
-
 ## License
 
-To be specified.
+This repository is licensed under the
+[Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
+
+You are free to share and adapt the material for non-commercial purposes, provided appropriate credit is given.
+
+[![CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+## Contact
+
+For questions, suggestions, or further information regarding this workflow, please contact:
+
+**Jhon A. Suescún-Sepúlveda**
+
+University of Salamanca, Spain
+
+Email: [jass94@usal.es](mailto:jass94@usal.es)
